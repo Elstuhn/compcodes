@@ -1,3 +1,7 @@
+"""
+2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)
+"""
+
 n = int(input())
 
 for i in range(n):
